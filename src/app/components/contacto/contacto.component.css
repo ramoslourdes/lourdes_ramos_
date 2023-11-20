@@ -1,0 +1,8 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F5B1AA;
+}
